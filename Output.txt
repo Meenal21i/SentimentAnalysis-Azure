@@ -1,0 +1,140 @@
+Document 1 Sentiment: positive
+Overall scores: positive=1.00; neutral=0.00; negative=0.00
+
+Sentence: The movie was absolutely fantastic.
+Sentence 1 sentiment: positive
+Sentence score: positive=1.00; neutral=0.00; negative=0.00
+
+Document 2 Sentiment: positive
+Overall scores: positive=1.00; neutral=0.00; negative=0.00
+
+Sentence: The storyline was captivating and the special effects were stunning.
+Sentence 1 sentiment: positive
+Sentence score: positive=1.00; neutral=0.00; negative=0.00
+
+Document 3 Sentiment: negative
+Overall scores: positive=0.00; neutral=0.01; negative=0.99
+
+Sentence: I found the film to be quite mediocre.
+Sentence 1 sentiment: negative
+Sentence score: positive=0.00; neutral=0.01; negative=0.99
+
+Document 4 Sentiment: negative
+Overall scores: positive=0.00; neutral=0.00; negative=1.00
+
+Sentence: It had some entertaining moments but overall lacked depth.
+Sentence 1 sentiment: negative
+Sentence score: positive=0.00; neutral=0.00; negative=1.00
+
+Document 5 Sentiment: positive
+Overall scores: positive=0.95; neutral=0.04; negative=0.00
+
+Sentence: The acting was brilliant, and the plot had some interesting twists.
+Sentence 1 sentiment: positive
+Sentence score: positive=0.95; neutral=0.04; negative=0.00
+
+Document 6 Sentiment: negative
+Overall scores: positive=0.00; neutral=0.01; negative=0.99
+
+Sentence: However, the pacing was a bit slow.
+Sentence 1 sentiment: negative
+Sentence score: positive=0.00; neutral=0.01; negative=0.99
+
+Document 7 Sentiment: negative
+Overall scores: positive=0.00; neutral=0.00; negative=1.00
+
+Sentence: I didn't enjoy the movie at all.
+Sentence 1 sentiment: negative
+Sentence score: positive=0.00; neutral=0.00; negative=1.00
+
+Document 8 Sentiment: neutral
+Overall scores: positive=0.04; neutral=0.53; negative=0.43
+
+Sentence: The characters were flat and the plot was predictable.
+Sentence 1 sentiment: neutral
+Sentence score: positive=0.04; neutral=0.53; negative=0.43
+
+Document 9 Sentiment: positive
+Overall scores: positive=1.00; neutral=0.00; negative=0.00
+
+Sentence: What a wonderful film!
+Sentence 1 sentiment: positive
+Sentence score: positive=1.00; neutral=0.00; negative=0.00
+
+Document 10 Sentiment: positive
+Overall scores: positive=1.00; neutral=0.00; negative=0.00
+
+Sentence: The cinematography was beautiful and the performances were top-notch.
+Sentence 1 sentiment: positive
+Sentence score: positive=1.00; neutral=0.00; negative=0.00
+
+Document 11 Sentiment: neutral
+Overall scores: positive=0.01; neutral=0.99; negative=0.00
+
+Sentence: The movie was alright.
+Sentence 1 sentiment: neutral
+Sentence score: positive=0.01; neutral=0.99; negative=0.00
+
+Document 12 Sentiment: neutral
+Overall scores: positive=0.09; neutral=0.66; negative=0.24
+
+Sentence: It didn't make a strong impression on me, but it wasn't terrible either.
+Sentence 1 sentiment: neutral
+Sentence score: positive=0.09; neutral=0.66; negative=0.24
+
+Document 13 Sentiment: positive
+Overall scores: positive=1.00; neutral=0.00; negative=0.00
+
+Sentence: I loved every minute of the film.
+Sentence 1 sentiment: positive
+Sentence score: positive=1.00; neutral=0.00; negative=0.00
+
+Document 14 Sentiment: positive
+Overall scores: positive=0.65; neutral=0.06; negative=0.29
+
+Sentence: It was engaging from start to finish and left me wanting more.
+Sentence 1 sentiment: positive
+Sentence score: positive=0.65; neutral=0.06; negative=0.29
+
+Document 15 Sentiment: negative
+Overall scores: positive=0.00; neutral=0.00; negative=1.00
+
+Sentence: The film was disappointing.
+Sentence 1 sentiment: negative
+Sentence score: positive=0.00; neutral=0.00; negative=1.00
+
+Document 16 Sentiment: negative
+Overall scores: positive=0.00; neutral=0.00; negative=1.00
+
+Sentence: It didn't live up to the hype and the storyline was rather dull.
+Sentence 1 sentiment: negative
+Sentence score: positive=0.00; neutral=0.00; negative=1.00
+
+Document 17 Sentiment: positive
+Overall scores: positive=0.99; neutral=0.01; negative=0.00
+
+Sentence: I was pleasantly surprised by the movie.
+Sentence 1 sentiment: positive
+Sentence score: positive=0.99; neutral=0.01; negative=0.00
+
+Document 18 Sentiment: positive
+Overall scores: positive=1.00; neutral=0.00; negative=0.00
+
+Sentence: It had a great balance of humor and drama.
+Sentence 1 sentiment: positive
+Sentence score: positive=1.00; neutral=0.00; negative=0.00
+
+Document 19 Sentiment: negative
+Overall scores: positive=0.00; neutral=0.09; negative=0.91
+
+Sentence: The movie had potential, but it failed to deliver.
+Sentence 1 sentiment: negative
+Sentence score: positive=0.00; neutral=0.09; negative=0.91
+
+Document 20 Sentiment: negative
+Overall scores: positive=0.00; neutral=0.00; negative=1.00
+
+Sentence: The dialogue was cringe-worthy and the ending was unsatisfying.
+Sentence 1 sentiment: negative
+Sentence score: positive=0.00; neutral=0.00; negative=1.00
+
