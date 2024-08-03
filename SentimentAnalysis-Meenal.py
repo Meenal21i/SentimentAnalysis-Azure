@@ -4,7 +4,7 @@ from nltk.tokenize import sent_tokenize
 import nltk
 import math
 
-# Download the Punkt tokenizer models for sentence splitting
+# Punkt tokenizer models for sentence splitting
 nltk.download('punkt')
 
 # Azure Text Analytics setup
@@ -51,7 +51,7 @@ def main(file_path):
     # Analyze sentiment for each sentence in batches
     analyze_sentiment(client, sentences)
 
-# Path to your text file
-file_path = 'sample_reviews.txt'  # Update with the path to your text file
+
+file_path = 'sample_reviews.txt'  
 
 main(file_path)
