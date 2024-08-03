@@ -13,23 +13,8 @@ This project performs sentiment analysis on text data using the Azure Text Analy
 2. Create a Text Analytics resource in the Azure portal.
 3. Retrieve your API key and endpoint URL from the Azure portal.
 
-### 2. Set Environment Variables
 
-To securely manage your API keys, set the following environment variables:
-
-- **On Windows:**
-  ```bash
-  set AZURE_KEY=your_api_key_here
-  set AZURE_ENDPOINT=your_endpoint_here
-  ```
-
-- **On macOS/Linux:**
-  ```bash
-  export AZURE_KEY=your_api_key_here
-  export AZURE_ENDPOINT=your_endpoint_here
-  ```
-
-### 3. Install Dependencies
+### 2. Install Dependencies
 
 Ensure you have the required Python libraries installed. You can install them using pip:
 
@@ -37,7 +22,7 @@ Ensure you have the required Python libraries installed. You can install them us
 pip install azure-ai-textanalytics nltk
 ```
 
-### 4. Download NLTK Data
+### 3. Download NLTK Data
 
 The script uses the NLTK library to split text into sentences. Download the necessary data:
 
